@@ -1,0 +1,23 @@
+{
+  "id": "6288396b-da2e-41a2-b229-119617884567",
+  "audios": [
+    {
+      "question": "Do you like travelling?",
+      "questionSound": "kslearning/sound/8573226-1601948895232-p1_q(27.1).mp3",
+      "answer": "You bet! I am a big fan of traveling around. I spend months all together each year to go somewhere else. I feel that it's not only an indispensable part of my life but also can culture my mental development.",
+      "answerSound": "kslearning/sound/948280156-1602496553255-p1-27.1.mp3"
+    },
+    {
+      "question": "In which seasons do you prefer to travel?",
+      "questionSound": "kslearning/sound/737277933-1601948899805-p1_q(27.2).mp3",
+      "answer": "I guess the autumn is the best time to travel. As it is neither too hot nor too cold, people will feel comfortable to go out. Besides, as the foliage of trees will turn yellow or red, you will find the picturesque views all around you. Wherever you go, you will experience a memorable trip.",
+      "answerSound": "kslearning/sound/291829947-1602496561200-p1-27.2.mp3"
+    },
+    {
+      "question": "Would you say your country is a good place for travellers to visit?",
+      "questionSound": "kslearning/sound/890415867-1601948905511-p1_q(27.3).mp3",
+      "answer": "Yes, Chinese people are renowned for their hospitality to visitors. And there are also numerous tourist attractions around the country. For instance, you can visit the natural landscape to see the picturesque views, or you can go to the historical relics to know the events through the long Chinese history, or you can just stay at the metropolises to experience the local people's lifestyle.",
+      "answerSound": "kslearning/sound/842547676-1602496569280-p1-27.3.mp3"
+    }
+  ]
+}

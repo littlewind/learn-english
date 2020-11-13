@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "361688343900",
+    "firebase_url": "https://learn-english-7e221.firebaseio.com",
+    "project_id": "learn-english-7e221",
+    "storage_bucket": "learn-english-7e221.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361688343900:android:be261b6e5bf47158504d99",
+        "android_client_info": {
+          "package_name": "com.littlewind.learn_english"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361688343900-ies74u5171iorjfqc72tbb5t6g6tg3t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFrVR5CCU4E1WnFEHkwzEBQWZDfeT1u0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361688343900-ies74u5171iorjfqc72tbb5t6g6tg3t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
